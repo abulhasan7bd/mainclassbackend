@@ -1,3 +1,13 @@
 https://typicode.github.io/husky/
 
 lint/husky stage
+
+
+ "lint-staged": {
+    "*.js": "eslint --fix"
+  }
+
+    "lint-staged": {
+      "src/**/*.js/": "yarn lint-prettier"
+    }
+
