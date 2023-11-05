@@ -28,7 +28,7 @@
     "supervisor": "^0.12.0"
   },
     "lint-staged": {
-      "src/**/*.js/": "yarn lint-prettier"
+      "src/**/*.js/": "lint-prettier"
     }
 
 }
