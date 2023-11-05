@@ -9,23 +9,6 @@ connectDb()
 
 let x = 333333333333333333333
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const data = 'dslklsd'
 
 app.listen(port, () => {
