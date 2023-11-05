@@ -21,10 +21,7 @@ let apa = 333333333333333333333
 
 
 
-
-
-
-let be = "bbbbbb"
+let be = 'bbbbbb'
 let hi = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 let sumi = 'tum'
 
