@@ -3,6 +3,17 @@
 const app = require('./database/app')
 const { port } = require('../src/config/index')
 // eslint-disable-next-line no-undef
+
+
+
+
+
+
+
+
+
+
+
 const { connectDb } = require('./database/connectDb')
 connectDb()
 
