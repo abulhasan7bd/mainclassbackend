@@ -3,6 +3,27 @@ const { port } = require('../src/config/index')
 const { connectDb } = require('./database/connectDb')
 connectDb()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const data = 'dslklsd'
 
 app.listen(port, () => {
