@@ -25,6 +25,6 @@ module.exports = {
   },
   plugins: ['react'],
   rules: {
-    "no-unused-vars":"of"
+    // "no-unused-vars":"of"
   },
 }

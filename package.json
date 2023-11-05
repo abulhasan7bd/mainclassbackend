@@ -9,7 +9,7 @@
     "prettiercheck": "prettier src --check",
     "prettierfix": "prettier src --write",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
-    "lint-prettier": "yarn eslintcheck && yarn prettiercheck"
+    "lint-prettier": "yarn eslintcheck && yarn prettierfix"
   },
   "author": "Abul Hasan",
   "license": "MIT",
