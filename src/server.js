@@ -12,20 +12,7 @@ let apa = 333333333333333333333
 let l = 3333333333333333
 const data = 'dslklsd'
 
-
-
-
-
-
-
-
 const loo = 34
-
-
-
-
-
-
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
